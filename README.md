@@ -2,4 +2,4 @@ Projeto de construção de login com redirecionamento de página utilizando ling
 
  
 
-Nesse projeto entendemos como utilizar JavaScript para redirecionar páginas HTML, bem como compreendemos a utilização de laços de repetição utilizando `for`, também com a mesma linguagem.
+Nesse projeto entendemos como utilizar JavaScript para redirecionar páginas HTML, bem como compreendemos a utilização de laços de repetição utilizando `for`, com a mesma linguagem.
